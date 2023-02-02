@@ -1,4 +1,4 @@
-:woman: # Details_About_Me :blush: :blush:
+:woman: Details_About_Me :blush: :blush:
 
 ### I am Vijayalakshmi Sankati , Completed bachelours in Computer Science
 :book: Currently pursuing **Masters** in **Northwest Missouri State University** :book:
