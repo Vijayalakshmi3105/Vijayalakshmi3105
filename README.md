@@ -1,6 +1,5 @@
-:woman: # Details_About_Me 
+:woman: # Details_About_Me :blush: :blush:
 
-#### :blush: My current status and details :blush:
 ### I am Vijayalakshmi Sankati , Completed bachelours in Computer Science
 :book: Currently pursuing **Masters** in **Northwest Missouri State University** :book:
 - 🔭 I’m having work experience on ETL and Cloud technologies 
